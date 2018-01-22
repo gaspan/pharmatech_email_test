@@ -28,4 +28,3 @@
  2. Make any needed changes to the file email_testfile.html 
  3. When satisfied with your changes, copy/paste *all .html contents* to the appropriate .html email file.
 
-navigate to the 
