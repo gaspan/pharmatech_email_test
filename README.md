@@ -22,7 +22,7 @@
  8. Check to verify you received the email
 *NOTE: Depending on the mail client, your email may be delivered to the junk / spam folders*
 
-## To edit the email that is sent,
+## To edit the email file that is sent,
 
  1. CD to the zija_test_email directory inside the cloned git repo
  2. Make any needed changes to the file email_testfile.html 
