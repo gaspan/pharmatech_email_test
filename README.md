@@ -11,10 +11,10 @@
  5. Check if you have NPM (Node Package Manager) Installed
 `npm -v `
 
- 6. Clone the following git repository
+ 6. On your local machine Clone the following git repository
 `git clone https://github.com/whyisjacob/pharmatech_email_test.git`
 
- 7. Navigate to the newly cloned git repo and run the following command in the root of the repo
+ 7. Navigate via commandline to the newly cloned git repo and run the following command in the root of the repo
 `node emailtest.js youremail@address.com`
  An email has just been sent to the email address you just entered. This list can include multiple email addresses. Just add a comma, with no space, in between each email address
  `node emailtest.js email1@gmail.com,email2@hotmail.com,email3@YouGetThePicture.com`
