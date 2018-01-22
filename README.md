@@ -1,4 +1,4 @@
- 1. On your local machine, Check to make sure you have the latest version of node installed. *The latest, at the time of writing is 9.4.0*
+ 1. On your local machine, Check to make sure you have the latest version of node installed. *The latest, at the time of writing is 9.4.0. Node8.0 is suffecient as well*
 `node -v`
  2. If you do skip to step "6". If not, proceed to step "3"
  3. Install homebrew 
